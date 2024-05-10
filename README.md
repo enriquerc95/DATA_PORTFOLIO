@@ -13,9 +13,13 @@ Data Engineering: Knowledge of data pipelines and management using SQL Server an
 ### Featured Projects
 Here are some examples of my data science projects:
 
-ML_project: Brief description of the project, including the problem addressed, the technologies used, and the results achieved.
-Battleship: I did with
-Goals
+MACHINE_LEARNING_PROJECT: On this project i solve a WHO (The World Health Organization) problem creating a model to give financial help to the countries that need it.
+
+HUNDIR_FLOTA-BATTLESHIP_GAME: On this project, together with my team, I created the game battleship against the console
+
+Eda_powerlifting: the first EDA I did with its respective presentation about powerlifting sport
+
+### Goals
 Through this portfolio, I aim to showcase my ability to transform data into actionable insights and my dedication to data quality and integrity.
 
 If you have any questions or would like to learn more about my work, please feel free to reach out.
@@ -37,9 +41,14 @@ Ingeniería de datos: Conocimiento de la gestión de datos y pipelines usando SQ
 ### Proyectos Destacados
 Aquí se presentan algunos ejemplos de mis proyectos de ciencia de datos:
 
-[Nombre del Proyecto 1]: Breve descripción del proyecto, incluyendo el problema abordado, las tecnologías utilizadas y los resultados logrados.
-[Nombre del Proyecto 2]: Breve descripción del proyecto, con detalles similares a los mencionados anteriormente.
-Objetivos
+
+MACHINE_LEARNING_PROJECT: En este proyecto resuelvo un problema de la OMS (Organización Mundial de la Salud) creando un modelo para dar ayuda económica a los países que la necesitan.
+
+HUNDIR_FLOTA-BATTLESHIP_GAME: En este proyecto, junto con mi equipo, creamos el juego hundir la flota contra la consola.
+
+Eda_powerlifting: el primera EDA que hice con su respectiva presentación sobre el deporte powerlifting
+
+### Objetivos
 A través de este portfolio, busco demostrar mi capacidad para transformar datos en información accionable y mi dedicación a la calidad e integridad de los datos.
 
 Si tienes alguna pregunta o deseas saber más sobre mi trabajo, no dudes en contactarme.
